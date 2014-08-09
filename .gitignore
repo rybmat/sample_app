@@ -17,3 +17,5 @@
 
 #ignore secret token
 .secret
+
+config/database.yml
